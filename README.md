@@ -7,7 +7,7 @@ Run following comands in GitBash:
 2) mvn package -Ptest 
 (observe that the content of target textfile.txt file changed to test)
 
-$ mvn package -Ptest
+# $ mvn package -Ptest
 [INFO] Scanning for projects...
 [INFO]
 [INFO] ---------------------< com.task.maven:mainproject >---------------------
