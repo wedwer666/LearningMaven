@@ -14,4 +14,4 @@ Important pages for learning purposes:
 
 https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
 http://www.avajava.com/tutorials/lessons/how-do-i-filter-resources-based-on-values-from-a-properties-file.html?page=2
-
+http://www.vogella.com/tutorials/ApacheMaven/article.html
